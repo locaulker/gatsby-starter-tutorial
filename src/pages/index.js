@@ -4,7 +4,7 @@ import { Button } from "../components/button"
 
 export default () => (
   <Layout>
-    <div style={{ color: "red" }}>
+    <div>
       <h1>This is our Home Page</h1>
       Hello world!
       <h2>The second heading</h2>
