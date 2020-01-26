@@ -41,6 +41,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`, `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
-    `gatsby-plugin-styled-components`
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-playground`,
   ],
 }

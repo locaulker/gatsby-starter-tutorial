@@ -1,8 +1,17 @@
-body {
-  font-family: "Helvetica Neue", sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700&display=swap');
+
+*{
+  margin: 0;
+  box-sizing: border-box;
 }
-h1 {
-  /* color: #ff0000; */
+
+body {
+  font-family: 'Roboto','Helvetica Neue', sans-serif;
+  color: #222;
+}
+
+.title {
+  color: #ff0000;
   font-size: 1.5rem;
   text-transform: uppercase;
   font-weight: normal;
